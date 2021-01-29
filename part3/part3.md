@@ -1,5 +1,6 @@
 ## Debugging
 Bug: Result is being evaluated as a string because num1 and num2 are strings
+
 Fix: I can parse num1 and num2 into ints
 
 ## Network Tab
